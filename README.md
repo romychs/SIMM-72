@@ -13,7 +13,7 @@
 
 ![image](Export/render.jpg)
 
-Общий обем модуля 4MB.
+Общий объем модуля 4MB.
 
 [Исходники](Sources)
 
